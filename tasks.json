@@ -1,0 +1,5 @@
+[
+    { "id": 1, "titulo": "Tarea1", "descripcion": "Descripcion1", "estado": "completada" },
+    { "id": 2, "titulo": "Tarea2", "descripcion": "Descripcion2", "estado": "pendiente" },
+    { "id": 3, "titulo": "Tarea3", "descripcion": "Descripcion3", "estado": "completada" }
+]
